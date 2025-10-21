@@ -139,7 +139,6 @@ automatically-unhide-macos-hidden-apps = true
     alt-shift-tab = 'move-workspace-to-monitor --wrap-around next'
     alt-shift-f = 'fullscreen'    
 
-    alt-c = 'close'
     alt-f = 'exec-and-forget open -n /Applications/Firefox.app'
     alt-g = 'exec-and-forget open -n /Applications/Ghostty.app'
     alt-s = 'exec-and-forget open -n /Applications/Spotify.app/'
