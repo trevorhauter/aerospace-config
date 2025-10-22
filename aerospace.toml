@@ -147,13 +147,8 @@ automatically-unhide-macos-hidden-apps = true
     # [[APP LAUNCHING]]
     # Note: -a means it will open or go to the existing instance, -n is NEW
     # instance everytime
-    alt-c = 'exec-and-forget open -a /Applications/Slack.app'
-    alt-e = 'exec-and-forget open -a Mail'
     alt-f = 'exec-and-forget open -n /Applications/Firefox.app'
     alt-g = 'exec-and-forget open -n /Applications/Ghostty.app'
-    alt-i = 'exec-and-forget open -a Messages'
-    alt-m = 'exec-and-forget open -a /Applications/Spotify.app'
-    alt-s = 'exec-and-forget open -a /Applications/Signal.app'
 
 
     # See: https://nikitabobko.github.io/AeroSpace/commands#mode
